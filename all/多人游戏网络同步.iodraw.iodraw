@@ -37,11 +37,8 @@
         <mxCell id="3OyoFSekuRo9EWQAfEQ9-26" value="RPC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3OyoFSekuRo9EWQAfEQ9-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="985" y="285" as="sourcePoint" />
-            <mxPoint x="970" y="315" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="3OyoFSekuRo9EWQAfEQ9-28" value="Client&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Actor&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
