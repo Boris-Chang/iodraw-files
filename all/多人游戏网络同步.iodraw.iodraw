@@ -55,7 +55,7 @@
             <mxPoint x="480" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3OyoFSekuRo9EWQAfEQ9-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3OyoFSekuRo9EWQAfEQ9-32" value="SetHealth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
