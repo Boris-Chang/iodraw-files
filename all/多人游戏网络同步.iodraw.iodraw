@@ -79,6 +79,9 @@
         <mxCell id="3OyoFSekuRo9EWQAfEQ9-37" value="RepNotify" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="520" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3OyoFSekuRo9EWQAfEQ9-39" value="Client&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Actor&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="585" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
