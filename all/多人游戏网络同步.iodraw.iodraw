@@ -31,7 +31,7 @@
             <mxPoint x="340" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3OyoFSekuRo9EWQAfEQ9-20" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3OyoFSekuRo9EWQAfEQ9-20" value="Change" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="360" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
