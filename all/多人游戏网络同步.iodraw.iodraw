@@ -86,7 +86,10 @@
           <mxGeometry x="540" y="585" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3OyoFSekuRo9EWQAfEQ9-41" value="Client&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Actor&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="450" width="30" height="60" as="geometry" />
+          <mxGeometry x="620" y="585" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3OyoFSekuRo9EWQAfEQ9-42" value="OnHealtUpdate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
