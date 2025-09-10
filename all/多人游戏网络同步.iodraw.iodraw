@@ -38,7 +38,10 @@
           <mxGeometry x="680" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3OyoFSekuRo9EWQAfEQ9-28" value="Client&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Actor&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="270" width="30" height="60" as="geometry" />
+          <mxGeometry x="100" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3OyoFSekuRo9EWQAfEQ9-29" value="start fire" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
