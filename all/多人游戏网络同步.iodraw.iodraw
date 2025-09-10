@@ -20,7 +20,15 @@
           <mxGeometry x="290" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3OyoFSekuRo9EWQAfEQ9-6" value="Client&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Actor&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="270" width="30" height="60" as="geometry" />
+          <mxGeometry x="100" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3OyoFSekuRo9EWQAfEQ9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3OyoFSekuRo9EWQAfEQ9-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3OyoFSekuRo9EWQAfEQ9-7" value="Client&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Actor&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
