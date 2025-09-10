@@ -37,7 +37,7 @@
         <mxCell id="3OyoFSekuRo9EWQAfEQ9-21" value="RPC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3OyoFSekuRo9EWQAfEQ9-22" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="3OyoFSekuRo9EWQAfEQ9-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="300" as="sourcePoint" />
             <mxPoint x="510" y="300" as="targetPoint" />
