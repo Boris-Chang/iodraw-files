@@ -28,6 +28,12 @@
         <mxCell id="3OyoFSekuRo9EWQAfEQ9-7" value="Client&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Actor&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="480" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3OyoFSekuRo9EWQAfEQ9-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="480" as="sourcePoint" />
+            <mxPoint x="280" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
